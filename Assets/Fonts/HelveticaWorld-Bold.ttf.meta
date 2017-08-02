@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f411a6b4b4813eb4b81d80a569a0c9f6
+timeCreated: 1492438896
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica World
+  fontNames:
+  - Helvetica World
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 46036f33884acd0419f1b3c227123f1a
+timeCreated: 1493680208
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chava
+  fontNames:
+  - Chava
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

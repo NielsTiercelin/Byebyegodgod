@@ -1,0 +1,1888 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x679a)
+    Vendor:   ATI
+    VRAM:     3050 MB
+    Driver:   22.19.157.3
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\DOTween.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\DOTween43.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\DOTween46.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\DOTween50.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\DOTween50.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbyebyegodgod_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on vp_MovingPlatform
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on vp_Respawner
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on vp_PlayerRespawner
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on vp_DamageHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on vp_FPPlayerDamageHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on vp_SpawnPoint
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on vp_Timer
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on vp_PlayerDamageHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Facadee (26)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (31)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Ground') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3528 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (25)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (10)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (19)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (7)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (41)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (15)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (35)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (12)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (38)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (16)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (5)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (8)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 75456 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (17)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (20)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (23)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (11)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (21)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (28)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (9)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (5)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (18)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (8)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (36)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (37)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (19)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (39)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 194712 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (24)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (14)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (32)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (20)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (22)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (4)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (7)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (23)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (40)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (22)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (11)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (17)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (21)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (16)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (6)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (29)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (6)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'CSGModel First Try') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.CSGBuildContext?) has a different serialization layout when loading. (Read 32 bytes but expected 2759868 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'CSGModel First Try') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.CSGModel?) has a different serialization layout when loading. (Read 32 bytes but expected 1848 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (10)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (18)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (30)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (12)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (13)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (15)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (33)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (9)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (14)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (13)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (4)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (27)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 76584 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (34)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+UnloadTime: 1.139356 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a1c -> priority: 1 
+  Thread -> id: 196c -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Facadee (26)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (31)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Ground') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3528 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (25)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (10)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (19)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (7)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (41)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (15)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (35)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (12)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (38)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (16)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (5)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (8)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 75456 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (17)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (20)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (23)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (11)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (21)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (28)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (9)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (5)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (18)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (8)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (36)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (37)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (19)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (39)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 194712 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (24)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (14)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (32)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (20)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (22)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (4)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (7)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (23)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (40)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (22)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (11)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (17)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (21)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (16)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3216 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (6)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (29)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (6)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'CSGModel First Try') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.CSGBuildContext?) has a different serialization layout when loading. (Read 32 bytes but expected 2759868 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'CSGModel First Try') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.CSGModel?) has a different serialization layout when loading. (Read 32 bytes but expected 1848 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (10)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (18)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (30)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (12)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8448 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (13)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (15)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (33)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (9)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (14)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5736 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (13)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 8424 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (4)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 17304 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (27)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 3240 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'AppliedBrush (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 76584 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+The referenced script on this Behaviour (Game Object 'Facadee (34)') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably Sabresaurus.SabreCSG.PrimitiveBrush?) has a different serialization layout when loading. (Read 32 bytes but expected 5760 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.107494 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 3920.
+Total: 1.853630 ms (FindLiveObjects: 0.202468 ms CreateObjectMapping: 0.153985 ms MarkObjects: 1.343532 ms  DeleteObjects: 0.153302 ms)
+

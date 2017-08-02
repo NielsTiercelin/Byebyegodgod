@@ -1,0 +1,95 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x679a)
+    Vendor:   ATI
+    VRAM:     3050 MB
+    Driver:   22.19.157.3
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\DOTween.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\DOTween43.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\DOTween46.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\DOTween50.dll (this message is harmless)
+Loading E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\DOTween50.dll into Unity Child Domain
+- Completed reload, in  0.268 seconds
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\UnityProjects\GOD WILL DIE\New Unity Project\Bilds\tempbild_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on vp_MovingPlatform
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on vp_Respawner
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on vp_PlayerRespawner
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on vp_DamageHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on vp_FPPlayerDamageHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on vp_SpawnPoint
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on vp_Timer
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on vp_PlayerDamageHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.139010 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 179c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.110867 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1471.
+Total: 0.879523 ms (FindLiveObjects: 0.064871 ms CreateObjectMapping: 0.051555 ms MarkObjects: 0.716661 ms  DeleteObjects: 0.046093 ms)
+
